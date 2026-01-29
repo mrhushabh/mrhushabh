@@ -6,7 +6,7 @@
 name: Rhushabh Madurwar
 location: Los Angeles, CA
 education: MS Computer Science @ USC (2025)
-role: iOS & Backend Developer
+role: iOS & Full Stack Developer
 interests:
   - Mobile Development (iOS/SwiftUI)
   - Backend Systems (Node.js/Python)
@@ -33,7 +33,7 @@ current_focus: Building scalable applications & Exploring AI integration
 - **Features**: Real-time analytics tracking, dynamic player behavior monitoring, data-driven gameplay improvements.
 
 #### 📈 [StockPlay](https://github.com/mrhushabh/StockPlay)
-> Real-time stock market simulator and portfolio manager.
+> Real-time stock market simulator and portfolio manager. [**Live Demo**](https://stockplay.onrender.com/search)
 - **Tech**: Next.js, TypeScript, Tailwind CSS, Financial APIs.
 - **Features**: Gemini/Finnhub Powered AI insights, Real-time price tracking, portfolio performance analysis, watchlist management.
 
