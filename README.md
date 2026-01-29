@@ -35,9 +35,14 @@ current_focus: Building scalable applications & Exploring AI integration
 #### 📈 [StockPlay](https://github.com/mrhushabh/StockPlay)
 > Real-time stock market simulator and portfolio manager.
 - **Tech**: Next.js, TypeScript, Tailwind CSS, Financial APIs.
+- **Features**: Gemini/Finnhub Powered AI insights, Real-time price tracking, portfolio performance analysis, watchlist management.
+
+#### � [iOS StockApp](https://github.com/mrhushabh/iOS_StockApp)
+> Native iOS stock market simulator and portfolio manager.
+- **Tech**: Swift, SwiftUI, Alamofire, Highcharts.
 - **Features**: Real-time price tracking, portfolio performance analysis, watchlist management.
 
-#### 📝 [ApplyFlow](https://github.com/mrhushabh/ApplyFlow)
+#### �📝 [ApplyFlow](https://github.com/mrhushabh/ApplyFlow)
 > Automated job application tracker to streamline the job hunt process.
 - **Tech**: MERN Stack (MongoDB, Express, React, Node.js).
 - **Features**: Application status tracking, interview scheduling, analytics dashboard.
@@ -49,7 +54,7 @@ current_focus: Building scalable applications & Exploring AI integration
 </p>
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/rhushabhmadurwar)
-- 📧 [rhushabh.madurwar@usc.edu](mailto:rhushabh.madurwar@usc.edu)
+- 💼 [LinkedIn](https://linkedin.com/in/rhushabh-madurwar)
+- 📧 [rushmadurwar@gmail.com](mailto:rushmadurwar@gmail.com)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mrhushabh.mrhushabh)
