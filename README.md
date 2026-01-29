@@ -38,7 +38,7 @@ current_focus: Building scalable applications & Exploring AI integration
 - **Features**: Gemini/Finnhub Powered AI insights, Real-time price tracking, portfolio performance analysis, watchlist management.
 
 #### � [iOS StockApp](https://github.com/mrhushabh/iOS_StockApp)
-> Native iOS stock market simulator and portfolio manager.
+> Native iOS stock market simulator and portfolio manager. [**Watch Demo**](https://www.youtube.com/watch?v=F8raFihjc6c)
 - **Tech**: Swift, SwiftUI, Alamofire, Highcharts.
 - **Features**: Real-time price tracking, portfolio performance analysis, watchlist management.
 
