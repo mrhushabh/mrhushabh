@@ -27,11 +27,6 @@ current_focus: Building scalable applications & Exploring AI integration
 
 ### 🚀 Featured Projects
 
-#### 🏢 [JobNova](https://github.com/mrhushabh/JobNova)
-> A modern job board application with advanced filtering and recommendation features.
-- **Tech**: React, Node.js, Express, MongoDB.
-- **Features**: User authentication, job search, application tracking, responsive UI.
-
 #### 📈 [StockPlay](https://github.com/mrhushabh/StockPlay)
 > Real-time stock market simulator and portfolio manager.
 - **Tech**: Next.js, TypeScript, Tailwind CSS, Financial APIs.
@@ -41,11 +36,6 @@ current_focus: Building scalable applications & Exploring AI integration
 > Automated job application tracker to streamline the job hunt process.
 - **Tech**: MERN Stack (MongoDB, Express, React, Node.js).
 - **Features**: Application status tracking, interview scheduling, analytics dashboard.
-
-#### 🍄 [Mario Portfolio](https://mrhushabh.github.io/mario-portfolio)
-> Interactive 3D portfolio website inspired by Super Mario.
-- **Tech**: React Three Fiber, Three.js.
-- **Features**: 3D character control, interactive project levels, immersive audio.
 
 ### 📊 GitHub Stats
 <p align="left">
