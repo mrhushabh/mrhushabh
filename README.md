@@ -27,6 +27,11 @@ current_focus: Building scalable applications & Exploring AI integration
 
 ### 🚀 Featured Projects
 
+#### ⛳ [Twist Tile Golf](https://github.com/CSCI-526-Spring-2025/csci-526-final-project-putter-pirates)
+> A 2D golf game with twist mechanics and real-time analytics. [**Play Beta**](https://csci-526-spring-2025.github.io/csci-526-final-project-putter-pirates/BetaBuild2/)
+- **Tech**: C#, Unity, Firebase, Game Design.
+- **Features**: Real-time analytics tracking, dynamic player behavior monitoring, data-driven gameplay improvements.
+
 #### 📈 [StockPlay](https://github.com/mrhushabh/StockPlay)
 > Real-time stock market simulator and portfolio manager.
 - **Tech**: Next.js, TypeScript, Tailwind CSS, Financial APIs.
