@@ -1,5 +1,5 @@
 # Hey, I'm Rhushabh 👋
-**iOS & Backend Developer · MS CS @ USC '25**
+**iOS & Full Stack Developer · MS CS @ USC '25**
 
 ### 👨‍💻 About Me
 ```yaml
